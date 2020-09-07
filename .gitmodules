@@ -1,0 +1,9 @@
+[submodule "portal"]
+	path = portal
+	url = https://github.com/IBRAH1M/portal
+[submodule "client-management-service"]
+	path = client-management-service
+	url = https://github.com/IBRAH1M/client-management-service
+[submodule "bpm-service"]
+	path = bpm-service
+	url = https://github.com/IBRAH1M/bpm-service
